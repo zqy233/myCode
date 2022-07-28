@@ -1,0 +1,16 @@
+{
+  "name": "js",
+  "version": "1.0.0",
+  "description": "",
+  "main": "地图二位数组处理.js",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.12"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
